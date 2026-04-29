@@ -1,3 +1,10 @@
+# Setlist AI
+credentials.json
+token.pickle
+*.json
+.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
