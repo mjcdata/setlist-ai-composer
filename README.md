@@ -1,14 +1,13 @@
-# Setlist AI Composer
+# Setlist AI
 
 ## Overview
 
-Setlist AI Composer is an AI powered system that generates performance setlists and keeps them synchronized with a matching YouTube playlist. Users can add, remove, or replace songs via Discord commands, and updates are automatically reflected in both the setlist document and playlist in real time.
+Setlist AI is an AI powered system that manages performance setlists and keeps them synchronized with a matching YouTube playlist. Users can add, remove, or replace songs via Discord commands, and updates are automatically reflected in both the setlist document and playlist in real time.
 
 ---
 
 ## Key Features
 
-* Automatic YouTube playlist creation and syncing
 * Discord command-based control system
 * Real-time updates across setlist and playlist
 * Simple workflow for live performance management
@@ -37,7 +36,6 @@ Setlist AI Composer is an AI powered system that generates performance setlists 
 
 * Maintain perfect sync between setlist and playlist
 * Reduce manual setlist management for live performers
-* Enable fast iteration during rehearsals and performances
 
 ---
 
